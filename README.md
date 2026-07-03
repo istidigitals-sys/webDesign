@@ -8,9 +8,9 @@ Production-ready website scaffold used across ISTI client projects. Built for pe
 
 ## Stack
 
-- **Frontend:** React 19 · TypeScript · Tailwind CSS v4 · Vite
-- **Routing:** React Router v6
-- **SEO:** React 19 native head hoisting (no Helmet needed)
+- **Frontend:** React · TypeScript · Tailwind CSS · Vite
+- **Routing:** React Router 
+- **SEO:** React native head hoisting 
 - **Styling:** Tailwind CSS with custom design token system
 - **Deployment:** Vercel / Netlify / Railway
 
@@ -26,20 +26,13 @@ Production-ready website scaffold used across ISTI client projects. Built for pe
 ## Project structure
 
 ```
-src/
-  client/
-    components/     # Reusable UI components
-    pages/          # Route-level page components
-    lib/            # Utilities (cn, hooks, helpers)
-    assets/         # Brand assets (logo, favicon)
-  server/           # API layer (Node.js)
+to be added
 ```
 
 ## Quick start
 
 ```bash
-npm install
-npm run dev
+to be added
 ```
 
 ## Live examples
